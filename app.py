@@ -107,7 +107,6 @@ with st.sidebar:
     
     st.header("💡 Try asking:")
     st.write("- What is CFD trading?")
-    st.write("- Explain leverage")
     st.write("- What is risk management?")
     st.write("- What is a pip?")
 
