@@ -56,7 +56,7 @@ User Question → Embedding Model → Vector Search (ChromaDB)
 → Retrieve Relevant Docs → LLM (FLAN-T5) → Generated Answer
 ```
 
-## 🎯 Use Cases for Deriv
+## 🎯 Use Cases
 
 - Customer support automation
 - Trading education platform
